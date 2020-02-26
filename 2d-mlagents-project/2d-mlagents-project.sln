@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents", "Unity.ML-Agents.csproj", "{0980E9FD-91BD-0DD9-F853-6DB17D650C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{666220A3-8583-B046-387E-73CCC035504F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.Editor", "Unity.ML-Agents.Editor.csproj", "{56F2059F-F273-02D0-5322-30F6181E72CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0980E9FD-91BD-0DD9-F853-6DB17D650C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0980E9FD-91BD-0DD9-F853-6DB17D650C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0980E9FD-91BD-0DD9-F853-6DB17D650C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0980E9FD-91BD-0DD9-F853-6DB17D650C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666220A3-8583-B046-387E-73CCC035504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666220A3-8583-B046-387E-73CCC035504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666220A3-8583-B046-387E-73CCC035504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666220A3-8583-B046-387E-73CCC035504F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F2059F-F273-02D0-5322-30F6181E72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F2059F-F273-02D0-5322-30F6181E72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F2059F-F273-02D0-5322-30F6181E72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F2059F-F273-02D0-5322-30F6181E72CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
